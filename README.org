@@ -1,0 +1,10 @@
+* qmynd
+
+QITAB MySQL Native Driver for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/qitab/qmynd.git   |
+| commit  | 7e56daf  |
+| systems | qmynd |
+|---------+-------------------------------------------|
+
